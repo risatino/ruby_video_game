@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    vg_tools (0.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vg_tools
+
+BUNDLED WITH
+   1.14.4
